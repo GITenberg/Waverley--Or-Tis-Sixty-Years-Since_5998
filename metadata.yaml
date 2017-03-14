@@ -1,5 +1,8 @@
 _repo: Waverley--Or-Tis-Sixty-Years-Since_5998
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scott, Walter
@@ -28,6 +31,8 @@ description: "Waverley is an 1814 historical novel by Sir Walter Scott (1771–1
   \ of Waverley\". His series of works on similar themes written during the same period\
   \ have become collectively known as the \"Waverley Novels\".\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5998#Waverley--Or-Tis-Sixty-Years-Since
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2004-08-19'
 gutenberg_type: Text
